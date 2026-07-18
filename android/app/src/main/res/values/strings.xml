@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Désiré VPN Test</string>
+    <string name="title_activity_main">Désiré VPN Test</string>
+    <string name="package_name">com.desire.vpntest</string>
+    <string name="custom_url_scheme">com.desire.vpntest</string>
+</resources>

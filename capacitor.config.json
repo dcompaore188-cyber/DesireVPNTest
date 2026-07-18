@@ -1,0 +1,10 @@
+{
+  "appId": "com.desire.vpntest",
+  "appName": "Désiré VPN Test",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
